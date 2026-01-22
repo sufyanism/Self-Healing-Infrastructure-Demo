@@ -1,0 +1,9 @@
+{
+  "title": "Self Healing Dashboard",
+  "panels": [
+    {
+      "type": "graph",
+      "title": "Pod Restarts"
+    }
+  ]
+}

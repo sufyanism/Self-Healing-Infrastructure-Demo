@@ -1,0 +1,4 @@
+healthCheck:
+  endpoint: /
+  retries: 3
+  timeout: 5s
